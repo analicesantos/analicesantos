@@ -1,6 +1,7 @@
 ### Olá! Eu sou a Analice 💻
 
 🎓 Técnica em Recursos Humanos
+<br>
 🎓 Técnica em Informática Para Internet 
 <br>
 📚 Cursando Sistemas Para Internet - Fatec de Lins (6/6)
