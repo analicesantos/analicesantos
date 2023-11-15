@@ -1,10 +1,10 @@
 ### Olá! Eu sou a Analice 💻
 
+🎓 Técnica em Recursos Humanos
 🎓 Técnica em Informática Para Internet 
 <br>
-📚 Cursando Sistemas Para Internet - Fatec de Lins (4/6)
+📚 Cursando Sistemas Para Internet - Fatec de Lins (6/6)
 <br>
-📚 Cursando Técnico em Recursos Humanos - Etec de Lins (3/3)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/analicesantos/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_analices)
